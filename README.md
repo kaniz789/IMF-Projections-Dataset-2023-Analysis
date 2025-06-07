@@ -28,13 +28,13 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  1.  The bar chart visually represents the top 20 countries with the highest current account forecasts for 2023, indicating nations with strong surplus positions in global trade and investments. Countries like Guyana, Norway, and Papua New Guinea exhibit the largest positive forecasts, highlighting their economic stability and favorable trade balances.
+##  1.  The bar chart visually represents the top 20 countries with the highest current account forecasts for 2023, indicating nations with strong surplus positions in global trade and investments. Countries like Guyana, Norway, and Papua New Guinea exhibit the largest positive forecasts, highlighting their economic stability and favorable trade balances.
 
 ![1](https://github.com/user-attachments/assets/0e7911db-db4f-403b-8bab-f1ae0e8616a0)
 
 
 
-###  2.
+##  2.   This plot illustrates the relationship between economic growth forecasts and investment forecasts for countries with an expected growth rate above 6% in 2023, showing that high economic growth does not necessarily correlate with high investment projections.
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
