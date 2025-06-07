@@ -27,27 +27,26 @@ The dataset consists of individual files, each representing a specific economic 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
-### 1.  This plot is a vertical bar chart showcasing the top 30 countries based on their budget balance forecast for 2023.
+### 1.  This vertical bar chart showcasing the top 30 countries based on their budget balance forecast for 2023.
 
 
 ![01](https://github.com/user-attachments/assets/3a1babf8-9075-44be-a790-dac6494f8012)
 
 
 
-
-###  2.  
+###  2.  This vertical bar chart displaying the current account forecast for 2023 for various countries, sorted in descending order.
 
 ![1](https://github.com/user-attachments/assets/0e7911db-db4f-403b-8bab-f1ae0e8616a0)
 
 
 
-###  3.   This chart is a bar plot that displays the average budget balance forecast by continent, helping to compare fiscal conditions across different continent in 2023.
+###  3.   This vertical bar chart illustrating the average budget balance forecast for 2023 across various continents.
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
 
 
-###  4.   The scatter plot visualizes the economic growth forecast and investment forecast for countries with an expected growth rate above 6% in 2023, helping to identify whether high economic growth correlates with strong investment projections.
+###  4.   This scatter plot showing the relationship between "Global Rank" and the "Budget Balance Forecast" for 2023.
 
 ![3](https://github.com/user-attachments/assets/16bb36aa-97e5-4d3f-845f-859cdcf6917c)
 
@@ -60,7 +59,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  6.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating whether stronger economic projections align with higher investment expectations.
+###  6.  This plot is a vertical bar chart displaying the average current account forecast for 2023 across different continents.
 
 
 ![5](https://github.com/user-attachments/assets/e671b0b0-a859-4bc0-8bd1-9033e3985118)
@@ -74,14 +73,13 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  8.
+###  8.   This plot is a histogram with a Kernel Density Estimate (KDE), illustrating the frequency distribution of current account forecasts for 2023.
 
 ![7](https://github.com/user-attachments/assets/4fe68f02-4997-495d-8934-82d802d9e768)
 
 
 
-###  9.    
-This plot is a horizontal bar chart visualizing the average economic growth forecast for 2023 across different continents.
+###  9.   This plot is a horizontal bar chart visualizing the average economic growth forecast for 2023 across different continents.
 
 ![8](https://github.com/user-attachments/assets/0cd07ad9-04ee-4f48-9fb3-307aa370eb09)
 
