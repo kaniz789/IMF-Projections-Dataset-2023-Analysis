@@ -27,7 +27,7 @@ The dataset consists of individual files, each representing a specific economic 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
-### 1.   This chart is a bar plot that presents the budget balance forecasts for all countries, allowing for a global comparison of fiscal projections in 2023.
+### 1.   This chart is a bar plot that presents the budget balance forecasts for 30 countries, allowing for a global comparison of fiscal projections in 2023.
 
 
 ![01](https://github.com/user-attachments/assets/3a1babf8-9075-44be-a790-dac6494f8012)
