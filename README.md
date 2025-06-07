@@ -66,14 +66,14 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  7.    This is a pie chart, which visually represents the proportional distribution of economic growth forecasts or investment forecasts among high-growth countries in 2023. Let me know if you’d like a deeper breakdown of the insights it conveys!
+###  7.  This plot is a pie chart showing the average economic growth forecast for 2023, broken down proportionally by continent.
 
 
 ![6](https://github.com/user-attachments/assets/8491d6d3-ece9-473d-8b35-f604afbc1527)
 
 
 
-###  8.   This plot is a histogram with a Kernel Density Estimate (KDE), illustrating the frequency distribution of current account forecasts for 2023.
+###  8.  This plot is a vertical bar chart displaying the average economic growth forecast for 2023 across various continents.
 
 ![7](https://github.com/user-attachments/assets/4fe68f02-4997-495d-8934-82d802d9e768)
 
