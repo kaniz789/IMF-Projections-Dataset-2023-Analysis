@@ -40,13 +40,14 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  3.   The line chart, which visualizes the economic growth forecast and investment forecast for countries with an expected growth rate above 6% in 2023, helping to identify whether high economic growth correlates with strong investment projections.
+###  3.   The scatter plot visualizes the economic growth forecast and investment forecast for countries with an expected growth rate above 6% in 2023, helping to identify whether high economic growth correlates with strong investment projections.
 
 ![3](https://github.com/user-attachments/assets/16bb36aa-97e5-4d3f-845f-859cdcf6917c)
 
 
 
-###  4.
+###  4.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating variations in investment levels among nations with strong economic projections.
+
 
 ![4](https://github.com/user-attachments/assets/8f918305-cbaf-4312-b264-07925855824d)
 
