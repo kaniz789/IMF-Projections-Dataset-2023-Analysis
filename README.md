@@ -17,6 +17,10 @@ The dataset consists of individual files, each representing a specific economic 
 
 * Unemployment rate forecast
 
+## Project Overview
+
+### Designed and implemented end-to-end data workflows using Azure services: orchestrated data pipelines with Azure Data Factory to ingest raw data into Data Lake Storage Gen2; performed data cleaning and transformation in Azure Databricks, storing curated outputs in a refined data layer. Leveraged Azure Synapse Analytics for scalable querying and performance tuning, and delivered actionable insights through Power BI dashboards to support strategic decision-making and business intelligence reporting.
+
 
 
 ![Screenshot 2025-06-06 193648](https://github.com/user-attachments/assets/4a1affcf-3b3a-4d41-b8ef-fde82436c728)
