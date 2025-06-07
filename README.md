@@ -34,7 +34,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  2.   This bar plot illustrates the relationship between economic growth forecasts and investment forecasts for countries with an expected growth rate above 6% in 2023, showing that high economic growth does not necessarily correlate with high investment projections.
+###  2.   This chart is a bar plot that displays the average budget balance forecast by continent, helping to compare fiscal conditions across different continent in 2023.
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
