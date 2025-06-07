@@ -146,6 +146,7 @@ This query retrieves economic growth forecasts for 2023 alongside current accoun
 
 
 Which countries have both high investment (>35%) and low unemployment (<10%)?
+
 This query retrieves economic growth forecasts for 2023 along with current account forecasts, ensuring missing values default to zero, and ranks countries by economic growth in descending order to highlight the strongest expected economies.
 
 ![j-in_un-07](https://github.com/user-attachments/assets/49e9b36f-b945-46f3-afa0-219ad3c640e4)
