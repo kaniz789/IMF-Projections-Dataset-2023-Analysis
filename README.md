@@ -18,7 +18,8 @@ The dataset consists of individual files, each representing a specific economic 
 * Unemployment rate forecast
 
 
-![Screenshot 2025-06-06 193157](https://github.com/user-attachments/assets/42e19610-34b4-41d3-8894-1a431a37c682)
+![Screenshot 2025-06-06 193648](https://github.com/user-attachments/assets/7cd228b7-2a2d-4ebc-8b53-0efb16722746)
+
 
 
 
