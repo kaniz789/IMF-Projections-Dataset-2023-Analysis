@@ -144,22 +144,22 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  Conclusion:    This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.
+###   Here is my conclusion. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.
 
 
 
-##  Here is the Transformation:
+##   Here is the Transformation:
 
 This Python code is performing transformations on the datasets using PySpark.
 
 ![transformation process](https://github.com/user-attachments/assets/715478b2-9692-4a91-b2ea-66fcb2d7bf52)
 
 
-## Saving all datasets individually.
+##  Saving all datasets individually.
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
-# SQL queries
+#   SQL-based data initiative
 
 
 This query analyzes global economic trends by identifying clusters of countries with the same forecasted growth rate, emphasizing shared economic conditions and regional patterns rather than individual country insights.
