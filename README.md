@@ -27,6 +27,8 @@ The provided code imports essential libraries for data science and machine learn
 ![configuration part](https://github.com/user-attachments/assets/41983bc1-207b-4f62-9f28-5bfab1a577ca)
 
 
+This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in Azure Blob Storage.
+
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
@@ -131,11 +133,12 @@ The provided code imports essential libraries for data science and machine learn
 
 ##  Here is the Transformation:
 
+This Python code is performing transformations on the datasets using PySpark.
 
 ![transformation process](https://github.com/user-attachments/assets/715478b2-9692-4a91-b2ea-66fcb2d7bf52)
 
 
-
+## Saving all datasets individually.
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
