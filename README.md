@@ -53,13 +53,15 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  5.
+###  5.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating whether stronger economic projections align with higher investment expectations.
+
 
 ![5](https://github.com/user-attachments/assets/e671b0b0-a859-4bc0-8bd1-9033e3985118)
 
 
 
-###  6.
+###  6.    This is a pie chart, which visually represents the proportional distribution of economic growth forecasts or investment forecasts among high-growth countries in 2023. Let me know if you’d like a deeper breakdown of the insights it conveys!
+
 
 ![6](https://github.com/user-attachments/assets/8491d6d3-ece9-473d-8b35-f604afbc1527)
 
