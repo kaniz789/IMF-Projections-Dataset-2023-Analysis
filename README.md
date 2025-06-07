@@ -80,13 +80,14 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  9.
+###  9.    
+This plot is a horizontal bar chart visualizing the average economic growth forecast for 2023 across different continents.
 
 ![8](https://github.com/user-attachments/assets/0cd07ad9-04ee-4f48-9fb3-307aa370eb09)
 
 
 
-###  10.
+###  10.   This plot is a correlation heatmap illustrating the relationship between "inflation forecast, 2023" and "Global rank."
 
 ![9](https://github.com/user-attachments/assets/5d12f7d9-b172-49b1-b2ac-91c313941d45)
 
