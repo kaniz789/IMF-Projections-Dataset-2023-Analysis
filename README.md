@@ -207,6 +207,9 @@ This query analyzes whether high-growth countries also have high investment fore
 ![10](https://github.com/user-attachments/assets/6391a117-a227-4e5f-9ef7-148b65d8cd3b)
 
 
+### In conclusion from SQL queries I can say the dataset reveals significant variations in economic forecasts across countries, highlighting regions with strong projected growth as well as those facing fiscal challenges.
+
+
 
 
 
