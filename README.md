@@ -17,6 +17,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 * Unemployment rate forecast
 
+This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
 
 ![libraries](https://github.com/user-attachments/assets/6df0ce83-f366-4e0c-9175-0f6aff7891dc)
 
