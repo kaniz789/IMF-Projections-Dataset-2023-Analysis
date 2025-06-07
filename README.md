@@ -162,6 +162,9 @@ This Python code is performing transformations on the datasets using PySpark.
 #   SQL-based data initiative
 
 
+##  Using SQL, we can analyze the economic performance trends of countries by querying metrics like GDP growth, inflation rates, and budget balances across different regions and years. Additionally, we can compare and rank countries based on forecasted economic indicators to identify top-performing or at-risk economies.
+
+
 ### This query analyzes global economic trends by identifying clusters of countries with the same forecasted growth rate, emphasizing shared economic conditions and regional patterns rather than individual country insights.
 
 ![e-04](https://github.com/user-attachments/assets/a2fd71b8-61a7-4a90-bdab-858cb80ce05b)
