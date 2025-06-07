@@ -127,6 +127,62 @@ The dataset consists of individual files, each representing a specific economic 
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
+# SQL queries
+
+
+This query analyzes global economic trends by identifying clusters of countries with the same forecasted growth rate, emphasizing shared economic conditions and regional patterns rather than individual country insights.
+
+![e-04](https://github.com/user-attachments/assets/a2fd71b8-61a7-4a90-bdab-858cb80ce05b)
+
+
+This query analyzes unemployment and inflation forecasts for 2023 by performing a LEFT JOIN to retain all countries from the unemployment dataset while incorporating inflation data, allowing for comparative insights into economic conditions across nations.
+
+![j-un_in- 05](https://github.com/user-attachments/assets/713700e7-208f-4461-b6ce-ca6fb1164489)
+
+
+This query retrieves economic growth forecasts for 2023 alongside current account forecasts, ensuring that missing values default to zero, and orders the results by economic growth in descending order to highlight the strongest expected economies.
+
+![j-ac_ec-06](https://github.com/user-attachments/assets/9d8c71ca-b86c-4f0b-9e4c-40ce39f42364)
+
+
+Which countries have both high investment (>35%) and low unemployment (<10%)?
+This query retrieves economic growth forecasts for 2023 along with current account forecasts, ensuring missing values default to zero, and ranks countries by economic growth in descending order to highlight the strongest expected economies.
+
+![j-in_un-07](https://github.com/user-attachments/assets/49e9b36f-b945-46f3-afa0-219ad3c640e4)
+
+
+Do high-growth countries also have high investment forecasts?
+
+This query examines whether high-growth countries also have high investment forecasts by selecting those with an economic growth forecast above 6% and ordering them by their investment forecast in descending order. 
+![j-ec_in-08](https://github.com/user-attachments/assets/6f68218b-7680-4e3e-adfd-b79213b12958)
+
+
+Are the global ranks in each table consistent with the actual ordering?
+
+This query selects countries with an economic growth forecast above 6% and orders them by investment forecast in descending order, analyzing whether high-growth nations also have strong investment projections.
+
+![09](https://github.com/user-attachments/assets/63db787d-a675-492a-a70b-5d41576b7eaa)
+
+
+All economic indicators for each country in a unified view
+
+This query analyzes whether high-growth countries also have high investment forecasts by selecting those with an economic growth forecast above 6% and ordering them by investment forecast in descending order, with a visual representation comparing the two metrics across nations.
+
+![10](https://github.com/user-attachments/assets/6391a117-a227-4e5f-9ef7-148b65d8cd3b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
