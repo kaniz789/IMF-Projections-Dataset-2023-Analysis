@@ -27,89 +27,96 @@ The dataset consists of individual files, each representing a specific economic 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
+### 1.   This chart is a bar plot that presents the budget balance forecasts for all countries, allowing for a global comparison of fiscal projections in 2023.
 
-###  1.  The bar chart visually represents the top 20 countries with the highest current account forecasts for 2023, indicating nations with strong surplus positions in global trade and investments. Countries like Guyana, Norway, and Papua New Guinea exhibit the largest positive forecasts, highlighting their economic stability and favorable trade balances.
+
+![01](https://github.com/user-attachments/assets/3a1babf8-9075-44be-a790-dac6494f8012)
+
+
+
+
+###  2.  The bar chart visually represents the top 20 countries with the highest current account forecasts for 2023, indicating nations with strong surplus positions in global trade and investments. Countries like Guyana, Norway, and Papua New Guinea exhibit the largest positive forecasts, highlighting their economic stability and favorable trade balances.
 
 ![1](https://github.com/user-attachments/assets/0e7911db-db4f-403b-8bab-f1ae0e8616a0)
 
 
 
-###  2.   This chart is a bar plot that displays the average budget balance forecast by continent, helping to compare fiscal conditions across different continent in 2023.
+###  3.   This chart is a bar plot that displays the average budget balance forecast by continent, helping to compare fiscal conditions across different continent in 2023.
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
 
 
-###  3.   The scatter plot visualizes the economic growth forecast and investment forecast for countries with an expected growth rate above 6% in 2023, helping to identify whether high economic growth correlates with strong investment projections.
+###  4.   The scatter plot visualizes the economic growth forecast and investment forecast for countries with an expected growth rate above 6% in 2023, helping to identify whether high economic growth correlates with strong investment projections.
 
 ![3](https://github.com/user-attachments/assets/16bb36aa-97e5-4d3f-845f-859cdcf6917c)
 
 
 
-###  4.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating variations in investment levels among nations with strong economic projections.
+###  5.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating variations in investment levels among nations with strong economic projections.
 
 
 ![4](https://github.com/user-attachments/assets/8f918305-cbaf-4312-b264-07925855824d)
 
 
 
-###  5.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating whether stronger economic projections align with higher investment expectations.
+###  6.   The chart is a bar plot, which compares economic growth forecasts and investment forecasts for high-growth countries in 2023, illustrating whether stronger economic projections align with higher investment expectations.
 
 
 ![5](https://github.com/user-attachments/assets/e671b0b0-a859-4bc0-8bd1-9033e3985118)
 
 
 
-###  6.    This is a pie chart, which visually represents the proportional distribution of economic growth forecasts or investment forecasts among high-growth countries in 2023. Let me know if you’d like a deeper breakdown of the insights it conveys!
+###  7.    This is a pie chart, which visually represents the proportional distribution of economic growth forecasts or investment forecasts among high-growth countries in 2023. Let me know if you’d like a deeper breakdown of the insights it conveys!
 
 
 ![6](https://github.com/user-attachments/assets/8491d6d3-ece9-473d-8b35-f604afbc1527)
 
 
 
-###  7.
+###  8.
 
 ![7](https://github.com/user-attachments/assets/4fe68f02-4997-495d-8934-82d802d9e768)
 
 
 
-###  8.
+###  9.
 
 ![8](https://github.com/user-attachments/assets/0cd07ad9-04ee-4f48-9fb3-307aa370eb09)
 
 
 
-###  9.
+###  10.
 
 ![9](https://github.com/user-attachments/assets/5d12f7d9-b172-49b1-b2ac-91c313941d45)
 
 
 
-###  10.    This histogram visualizes the distribution of investment forecasts for 2023, highlighting how frequently different investment levels occur across countries. The KDE curve helps identify whether investments are concentrated within a specific range or spread out, offering insights into global investment trends.
+###  11.    This histogram visualizes the distribution of investment forecasts for 2023, highlighting how frequently different investment levels occur across countries. The KDE curve helps identify whether investments are concentrated within a specific range or spread out, offering insights into global investment trends.
 
 ![10](https://github.com/user-attachments/assets/07323982-2e36-47e6-904d-dfd48e7df3f3)
 
 
 
-###  11.    The investment dataset categorizes countries by their primary investment sectors, such as Technology, Energy, Finance, and Infrastructure, based on known investment patterns. It also includes forecasted investment percentages for 2023, allowing for analysis of global economic priorities and sector-specific funding trends.
+###  12.    The investment dataset categorizes countries by their primary investment sectors, such as Technology, Energy, Finance, and Infrastructure, based on known investment patterns. It also includes forecasted investment percentages for 2023, allowing for analysis of global economic priorities and sector-specific funding trends.
 
 ![11](https://github.com/user-attachments/assets/96f9f08e-18c4-4143-8ac7-3f4d42ba9c26)
 
 
 
-###  12.    This interactive geographic heatmap visually represents investment forecasts across countries, with color intensity reflecting the level of projected investment for 2023. Regions with higher investment forecasts appear in warmer tones, highlighting economies expected to prioritize significant capital growth, while cooler shades indicate lower projected investments.
+###  13.    This interactive geographic heatmap visually represents investment forecasts across countries, with color intensity reflecting the level of projected investment for 2023. Regions with higher investment forecasts appear in warmer tones, highlighting economies expected to prioritize significant capital growth, while cooler shades indicate lower projected investments.
 
 ![12](https://github.com/user-attachments/assets/144dc5bb-b565-41b5-8918-4760f82b90f9)
 
 
 
-###  13.   This bar chart ranks the top 20 countries with the highest unemployment rates, making it easy to compare economic challenges across nations. The longer bars indicate higher unemployment levels, highlighting the countries facing the most severe job market instability.
+###  14.   This bar chart ranks the top 20 countries with the highest unemployment rates, making it easy to compare economic challenges across nations. The longer bars indicate higher unemployment levels, highlighting the countries facing the most severe job market instability.
 
 ![13](https://github.com/user-attachments/assets/f022b678-dc7a-4742-868c-8417b2b6bbde)
 
 
 
-###  14.   This interactive choropleth map visualizes global unemployment rates, allowing users to explore country-specific job market challenges with hover details. The darker red shades indicate higher unemployment, highlighting regions struggling the most with workforce stability.
+###  15.   This interactive choropleth map visualizes global unemployment rates, allowing users to explore country-specific job market challenges with hover details. The darker red shades indicate higher unemployment, highlighting regions struggling the most with workforce stability.
 
 ![14](https://github.com/user-attachments/assets/de9d6110-9d17-4f16-9e67-eddcef391435)
 
