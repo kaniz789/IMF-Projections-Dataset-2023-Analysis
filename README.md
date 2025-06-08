@@ -207,7 +207,7 @@ This query analyzes whether high-growth countries also have high investment fore
 ![10](https://github.com/user-attachments/assets/6391a117-a227-4e5f-9ef7-148b65d8cd3b)
 
 
-### In conclusion from SQL queries I can say the dataset reveals significant variations in economic forecasts across countries, highlighting regions with strong projected growth as well as those facing fiscal challenges.
+* In conclusion from SQL queries I can say the dataset reveals significant variations in economic forecasts across countries, highlighting regions with strong projected growth as well as those facing fiscal challenges.
 
 
 
@@ -219,6 +219,7 @@ This query analyzes whether high-growth countries also have high investment fore
 ![Screenshot 2025-06-07 200801](https://github.com/user-attachments/assets/ce45fdce-fcbf-46a1-ae5b-fe5543d2a679)
 
 
+*  Ultimately, at the end, I could say, this Power BI workflow successfully consolidates complex economic forecasts into a user-friendly and interactive dashboard. This provides a clear, dynamic overview, empowering stakeholders to gain swift insights and make more informed decisions about global economic trends.
 
 
 
