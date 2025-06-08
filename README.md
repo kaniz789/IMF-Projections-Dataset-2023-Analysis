@@ -13,9 +13,9 @@ The dataset consists of individual files, each representing a specific economic 
 * Investment Economic forecast
 * Unemployment rate forecast
 
-**Project Overview**
+##  Project Overview
 
-###   Designed and implemented end-to-end data workflows using ``Azure services``: 
+**Designed and implemented end-to-end data workflows using ``Azure services``:**
 *  coordinated data pipelines with ``Azure Data Factory`` to ingest raw data into ``Data Lake Storage Gen2``; 
 *  performed data cleaning and transformation in ``Azure Databricks``, storing curated outputs in a refined data layer. 
 *  ``Azure Synapse Analytics`` for scalable querying and performance tuning, and 
