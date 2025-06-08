@@ -151,7 +151,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 *  The ``Transformation``:
 
-This Python code is performing transformations on the datasets using PySpark.
+This ``Python code`` is performing transformations on the datasets using ``PySpark``.
 
 ![transformation process](https://github.com/user-attachments/assets/715478b2-9692-4a91-b2ea-66fcb2d7bf52)
 
@@ -163,7 +163,7 @@ This Python code is performing transformations on the datasets using PySpark.
 #   ``SQL-based`` data initiative
 
 
-Using SQL, we can analyze the economic performance trends of countries by querying metrics like GDP growth, inflation rates, and budget balances across different regions and years. Additionally, we can compare and rank countries based on forecasted economic indicators to identify top-performing or at-risk economies.
+Using ``SQL``, we can analyze the economic performance trends of countries by querying metrics like GDP growth, inflation rates, and budget balances across different regions and years. Additionally, we can compare and rank countries based on forecasted economic indicators to identify top-performing or at-risk economies.
 
 
 ### This query analyzes global economic trends by identifying clusters of countries with the same forecasted growth rate, emphasizing shared economic conditions and regional patterns rather than individual country insights.
@@ -208,7 +208,7 @@ This query analyzes whether high-growth countries also have high investment fore
 ![10](https://github.com/user-attachments/assets/6391a117-a227-4e5f-9ef7-148b65d8cd3b)
 
 
-* In conclusion from SQL queries I can say the dataset reveals significant variations in economic forecasts across countries, highlighting regions with strong projected growth as well as those facing fiscal challenges.
+* In conclusion from ``SQL`` queries I can say the dataset reveals significant variations in economic forecasts across countries, highlighting regions with strong projected growth as well as those facing fiscal challenges.
 
 
 
@@ -221,7 +221,7 @@ This query analyzes whether high-growth countries also have high investment fore
 
 
 
-*  Ultimately, at the end, I could say, this Power BI workflow successfully consolidates complex economic forecasts into a user-friendly and interactive dashboard. This provides a clear, dynamic overview, empowering stakeholders to gain swift insights and make more informed decisions about global economic trends.
+*  Ultimately, at the end, I could say, this ``Power BI`` workflow successfully consolidates complex economic forecasts into a user-friendly and interactive dashboard. This provides a clear, dynamic overview, empowering stakeholders to gain swift insights and make more informed decisions about global economic trends.
 
 
 ###   ``This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making.``
