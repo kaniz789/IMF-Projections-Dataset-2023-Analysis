@@ -5,7 +5,7 @@ This dataset provides insights into various key economic metrics that are crucia
 
 The dataset consists of individual files, each representing a specific economic indicator. Here is an overview of the included indicators:
 
-** Budget Balance forecast
+* Budget Balance forecast
 
 * Current Account forecast
 
@@ -20,10 +20,10 @@ The dataset consists of individual files, each representing a specific economic 
 ##   Project Overview
 
 ###   Designed and implemented end-to-end data workflows using Azure services: 
-### - orchestrated data pipelines with Azure Data Factory to ingest raw data into Data Lake Storage Gen2; 
-### - performed data cleaning and transformation in Azure Databricks, storing curated outputs in a refined data layer. 
-### - Azure Synapse Analytics for scalable querying and performance tuning, and 
-### - delivered actionable insights through Power BI dashboards to support strategic decision-making and business intelligence reporting.
+*  coordinated data pipelines with Azure Data Factory to ingest raw data into Data Lake Storage Gen2; 
+*  performed data cleaning and transformation in Azure Databricks, storing curated outputs in a refined data layer. 
+*  Azure Synapse Analytics for scalable querying and performance tuning, and 
+*  delivered actionable insights through Power BI dashboards to support strategic decision-making and business intelligence reporting.
 
 
 
