@@ -185,6 +185,7 @@ This query retrieves economic growth forecasts for 2023 along with current accou
 **Do high-growth countries also have high investment forecasts?**
 
 This query examines whether high-growth countries also have high investment forecasts by selecting those with an economic growth forecast above 6% and ordering them by their investment forecast in descending order. 
+
 ![j-ec_in-08](https://github.com/user-attachments/assets/6f68218b-7680-4e3e-adfd-b79213b12958)
 
 
