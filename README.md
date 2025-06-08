@@ -35,12 +35,12 @@ The dataset consists of individual files, each representing a specific economic 
 ##  Data processing workflow in ``Python``
 
 
-*  Libraries for Python: This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
+*  Libraries for ``Python``: This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
 
 ![libraries](https://github.com/user-attachments/assets/6df0ce83-f366-4e0c-9175-0f6aff7891dc)
 
 
-*  Configuration: The provided code imports essential libraries for data science and machine learning, then configures a Spark session to securely connect to Azure Data Lake Storage Gen2 using OAuth 2.0 authentication before loading a dataset.
+*  ``Configuration``: The provided code imports essential libraries for data science and machine learning, then configures a Spark session to securely connect to Azure Data Lake Storage Gen2 using OAuth 2.0 authentication before loading a dataset.
 
 ![configuration part](https://github.com/user-attachments/assets/41983bc1-207b-4f62-9f28-5bfab1a577ca)
 
