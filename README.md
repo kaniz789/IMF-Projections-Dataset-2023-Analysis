@@ -13,7 +13,7 @@ The dataset consists of individual files, each representing a specific economic 
 * Investment Economic forecast
 * Unemployment rate forecast
 
-##   Project Overview
+***Project Overview***
 
 ###   Designed and implemented end-to-end data workflows using ``Azure services``: 
 *  coordinated data pipelines with ``Azure Data Factory`` to ingest raw data into ``Data Lake Storage Gen2``; 
@@ -152,6 +152,7 @@ This ``Python code`` is performing transformations on the datasets using ``PySpa
 
 
 *  Saving all datasets individually.
+*  
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
