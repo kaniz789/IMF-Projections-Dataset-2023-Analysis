@@ -20,7 +20,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 ##   Project Overview
 
-###   Designed and implemented end-to-end data workflows using Azure services: 
+###   Designed and implemented end-to-end data workflows using ``Azure services``: 
 *  coordinated data pipelines with ``Azure Data Factory`` to ingest raw data into ``Data Lake Storage Gen2``; 
 *  performed data cleaning and transformation in ``Azure Databricks``, storing curated outputs in a refined data layer. 
 *  ``Azure Synapse Analytics`` for scalable querying and performance tuning, and 
@@ -32,7 +32,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-##  Data processing workflow in Python
+##  Data processing workflow in ``Python``
 
 
 *  Libraries for Python: This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
@@ -45,76 +45,76 @@ The dataset consists of individual files, each representing a specific economic 
 ![configuration part](https://github.com/user-attachments/assets/41983bc1-207b-4f62-9f28-5bfab1a577ca)
 
 
-###  Uploading files: This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in Azure Blob Storage.
+###  Uploading files: This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in ``Azure Blob Storage``.
 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
-### 1.  This vertical bar chart showcasing the top 30 countries based on their budget balance forecast for 2023.
+### 1.  This vertical ``bar chart`` showcasing the top 30 countries based on their budget balance forecast for 2023.
 
 
 ![01](https://github.com/user-attachments/assets/3a1babf8-9075-44be-a790-dac6494f8012)
 
 
 
-###  2.  This vertical bar chart displaying the current account forecast for 2023 for various countries, sorted in descending order.
+###  2.  This vertical ``bar chart`` displaying the current account forecast for 2023 for various countries, sorted in descending order.
 
 ![1](https://github.com/user-attachments/assets/0e7911db-db4f-403b-8bab-f1ae0e8616a0)
 
 
 
-###  3.   This vertical bar chart illustrating the average budget balance forecast for 2023 across various continents.
+###  3.   This vertical ``bar chart`` illustrating the average budget balance forecast for 2023 across various continents.
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
 
 
-###  4.   This scatter plot showing the relationship between "Global Rank" and the "Budget Balance Forecast" for 2023.
+###  4.   This ``scatter plot`` showing the relationship between "Global Rank" and the "Budget Balance Forecast" for 2023.
 
 ![3](https://github.com/user-attachments/assets/16bb36aa-97e5-4d3f-845f-859cdcf6917c)
 
 
 
-###  5.  This vertical bar chart displaying the average current account forecast for 2023 across different continents.
+###  5.  This vertical ``bar chart`` displaying the average current account forecast for 2023 across different continents.
 
 
 ![4](https://github.com/user-attachments/assets/8f918305-cbaf-4312-b264-07925855824d)
 
 
 
-###  6.  This histogram with a Kernel Density Estimate (KDE), illustrating the frequency distribution of current account forecasts for 2023.
+###  6.  This ``histogram`` with a Kernel Density Estimate (KDE), illustrating the frequency distribution of current account forecasts for 2023.
 
 
 ![5](https://github.com/user-attachments/assets/e671b0b0-a859-4bc0-8bd1-9033e3985118)
 
 
 
-###  7.  This plot is a pie chart showing the average economic growth forecast for 2023, broken down proportionally by continent.
+###  7.  This plot is a ``pie chart`` showing the average economic growth forecast for 2023, broken down proportionally by continent.
 
 
 ![6](https://github.com/user-attachments/assets/8491d6d3-ece9-473d-8b35-f604afbc1527)
 
 
 
-###  8.  This plot is a vertical bar chart displaying the average economic growth forecast for 2023 across various continents.
+###  8.  This plot is a vertical ``bar chart`` displaying the average economic growth forecast for 2023 across various continents.
 
 ![7](https://github.com/user-attachments/assets/4fe68f02-4997-495d-8934-82d802d9e768)
 
 
 
-###  9.   This plot is a horizontal bar chart visualizing the average economic growth forecast for 2023 across different continents.
+###  9.   This plot is a horizontal ``bar chart`` visualizing the average economic growth forecast for 2023 across different continents.
 
 ![8](https://github.com/user-attachments/assets/0cd07ad9-04ee-4f48-9fb3-307aa370eb09)
 
 
 
-###  10.   This plot is a correlation heatmap illustrating the relationship between "inflation forecast, 2023" and "Global rank."
+###  10.   This plot is a correlation ``heatmap`` illustrating the relationship between "inflation forecast, 2023" and "Global rank."
 
 ![9](https://github.com/user-attachments/assets/5d12f7d9-b172-49b1-b2ac-91c313941d45)
 
 
 
-###  11.    This histogram visualizes the distribution of investment forecasts for 2023, highlighting how frequently different investment levels occur across countries. The KDE curve helps identify whether investments are concentrated within a specific range or spread out, offering insights into global investment trends.
+###  11.    This ``histogram`` visualizes the distribution of investment forecasts for 2023, highlighting how frequently different investment levels occur across countries. The KDE curve helps identify whether investments are concentrated within a specific range or spread out, offering insights into global investment trends.
 
 ![10](https://github.com/user-attachments/assets/07323982-2e36-47e6-904d-dfd48e7df3f3)
 
@@ -126,30 +126,30 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-###  13.    This interactive geographic heatmap visually represents investment forecasts across countries, with color intensity reflecting the level of projected investment for 2023. Regions with higher investment forecasts appear in warmer tones, highlighting economies expected to prioritize significant capital growth, while cooler shades indicate lower projected investments.
+###  13.    This interactive geographic ``heatmap`` visually represents investment forecasts across countries, with color intensity reflecting the level of projected investment for 2023. Regions with higher investment forecasts appear in warmer tones, highlighting economies expected to prioritize significant capital growth, while cooler shades indicate lower projected investments.
 
 ![12](https://github.com/user-attachments/assets/144dc5bb-b565-41b5-8918-4760f82b90f9)
 
 
 
-###  14.   This bar chart ranks the top 20 countries with the highest unemployment rates, making it easy to compare economic challenges across nations. The longer bars indicate higher unemployment levels, highlighting the countries facing the most severe job market instability.
+###  14.   This ``bar chart`` ranks the top 20 countries with the highest unemployment rates, making it easy to compare economic challenges across nations. The longer bars indicate higher unemployment levels, highlighting the countries facing the most severe job market instability.
 
 ![13](https://github.com/user-attachments/assets/f022b678-dc7a-4742-868c-8417b2b6bbde)
 
 
 
-###  15.   This interactive choropleth map visualizes global unemployment rates, allowing users to explore country-specific job market challenges with hover details. The darker red shades indicate higher unemployment, highlighting regions struggling the most with workforce stability.
+###  15.   This interactive ``choropleth map`` visualizes global unemployment rates, allowing users to explore country-specific job market challenges with hover details. The darker red shades indicate higher unemployment, highlighting regions struggling the most with workforce stability.
 
 ![14](https://github.com/user-attachments/assets/de9d6110-9d17-4f16-9e67-eddcef391435)
 
 
 
 
-*  Here is my conclusion. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.
+*  Here is my ``conclusion``. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.
 
 
 
-*  The Transformation:
+*  The ``Transformation``:
 
 This Python code is performing transformations on the datasets using PySpark.
 
@@ -160,7 +160,7 @@ This Python code is performing transformations on the datasets using PySpark.
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
-#   SQL-based data initiative
+#   ``SQL-based`` data initiative
 
 
 Using SQL, we can analyze the economic performance trends of countries by querying metrics like GDP growth, inflation rates, and budget balances across different regions and years. Additionally, we can compare and rank countries based on forecasted economic indicators to identify top-performing or at-risk economies.
@@ -212,7 +212,7 @@ This query analyzes whether high-growth countries also have high investment fore
 
 
 
-## Power BI Dashboard
+## ``Power BI`` Dashboard
 
 
 ###   IMF Global Economic Outlook: 2023 Forecast
@@ -224,7 +224,7 @@ This query analyzes whether high-growth countries also have high investment fore
 *  Ultimately, at the end, I could say, this Power BI workflow successfully consolidates complex economic forecasts into a user-friendly and interactive dashboard. This provides a clear, dynamic overview, empowering stakeholders to gain swift insights and make more informed decisions about global economic trends.
 
 
-###   This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making.
+###   ``This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making.``
 
 
 
