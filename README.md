@@ -27,7 +27,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-**Data processing workflow in ``Python``**
+##  Data processing workflow in ``Python``
 
 
 *  Libraries for ``Python``: This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
@@ -138,12 +138,6 @@ The dataset consists of individual files, each representing a specific economic 
 ![14](https://github.com/user-attachments/assets/de9d6110-9d17-4f16-9e67-eddcef391435)
 
 
-
-
-*  Here is my ``conclusion``. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.
-
-
-
 *  The ``Transformation``:
 
 This ``Python code`` is performing transformations on the datasets using ``PySpark``.
@@ -156,7 +150,10 @@ This ``Python code`` is performing transformations on the datasets using ``PySpa
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
-#   ``SQL-based`` data initiative
+*  Here is my ``conclusion``. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.*
+
+
+##   ``SQL-based`` data initiative
 
 
 Using ``SQL``, we can analyze the economic performance trends of countries by querying metrics like GDP growth, inflation rates, and budget balances across different regions and years. Additionally, we can compare and rank countries based on forecasted economic indicators to identify top-performing or at-risk economies.
