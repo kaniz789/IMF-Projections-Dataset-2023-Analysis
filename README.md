@@ -45,32 +45,32 @@ The dataset consists of individual files, each representing a specific economic 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
 
-### 1.  This vertical ``bar chart`` showcasing the top 30 countries based on their budget balance forecast for 2023.
+**1.  This vertical ``bar chart`` showcasing the top 30 countries based on their budget balance forecast for 2023.**
 
 
 ![01](https://github.com/user-attachments/assets/3a1babf8-9075-44be-a790-dac6494f8012)
 
 
 
-###  2.  This vertical ``bar chart`` displaying the current account forecast for 2023 for various countries, sorted in descending order.
+**2.  This vertical ``bar chart`` displaying the current account forecast for 2023 for various countries, sorted in descending order.**
 
 ![1](https://github.com/user-attachments/assets/0e7911db-db4f-403b-8bab-f1ae0e8616a0)
 
 
 
-###  3.   This vertical ``bar chart`` illustrating the average budget balance forecast for 2023 across various continents.
+**3.   This vertical ``bar chart`` illustrating the average budget balance forecast for 2023 across various continents.**
 
 ![2](https://github.com/user-attachments/assets/afa40fa0-aa50-47ba-b5a2-462fe6eba42e)
 
 
 
-###  4.   This ``scatter plot`` showing the relationship between "Global Rank" and the "Budget Balance Forecast" for 2023.
+**4.   This ``scatter plot`` showing the relationship between "Global Rank" and the "Budget Balance Forecast" for 2023.**
 
 ![3](https://github.com/user-attachments/assets/16bb36aa-97e5-4d3f-845f-859cdcf6917c)
 
 
 
-###  5.  This vertical ``bar chart`` displaying the average current account forecast for 2023 across different continents.
+**5.  This vertical ``bar chart`` displaying the average current account forecast for 2023 across different continents.**
 
 
 ![4](https://github.com/user-attachments/assets/8f918305-cbaf-4312-b264-07925855824d)
