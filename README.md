@@ -216,7 +216,8 @@ This query analyzes whether high-growth countries also have high investment fore
 
 ###   IMF Global Economic Outlook: 2023 Forecast
 
-![Screenshot 2025-06-07 200801](https://github.com/user-attachments/assets/ce45fdce-fcbf-46a1-ae5b-fe5543d2a679)
+![Screenshot 2025-06-07 203138](https://github.com/user-attachments/assets/4bc8bb23-7da4-4350-a4d7-7e999a328d1d)
+
 
 
 *  Ultimately, at the end, I could say, this Power BI workflow successfully consolidates complex economic forecasts into a user-friendly and interactive dashboard. This provides a clear, dynamic overview, empowering stakeholders to gain swift insights and make more informed decisions about global economic trends.
