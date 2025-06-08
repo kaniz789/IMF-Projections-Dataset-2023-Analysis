@@ -216,7 +216,8 @@ This query analyzes whether high-growth countries also have high investment fore
 
 ###   IMF Global Economic Outlook: 2023 Forecast
 
-![Screenshot 2025-06-07 144015](https://github.com/user-attachments/assets/1507c6e6-0cd6-4915-b201-0d8057aec9f9)
+![Screenshot 2025-06-07 200801](https://github.com/user-attachments/assets/ce45fdce-fcbf-46a1-ae5b-fe5543d2a679)
+
 
 
 
