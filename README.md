@@ -40,7 +40,7 @@ The dataset consists of individual files, each representing a specific economic 
 ![configuration part](https://github.com/user-attachments/assets/41983bc1-207b-4f62-9f28-5bfab1a577ca)
 
 
-###  Uploading files: This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in ``Azure Blob Storage``.
+***Uploading files:*** This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in ``Azure Blob Storage``.
 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
