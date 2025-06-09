@@ -27,7 +27,7 @@ The dataset consists of individual files, each representing a specific economic 
 
 
 
-##  ⚙️ Data processing workflow in ``Python``
+##  🛠️ Data processing workflow in ``Python``
 
 
 *  Libraries for **``Python``**: This code imports various libraries commonly used in data science and machine learning. Specifically, it imports PySpark functions for data manipulation, PySpark SQL types, and libraries for data analysis
@@ -138,7 +138,7 @@ The dataset consists of individual files, each representing a specific economic 
 ![14](https://github.com/user-attachments/assets/de9d6110-9d17-4f16-9e67-eddcef391435)
 
 
-*  The **``Transformation``**:
+* 🧪 The **``Transformation``**:
 
 *  This **``Python code``** is performing transformations on the datasets using **``PySpark``**.
 
