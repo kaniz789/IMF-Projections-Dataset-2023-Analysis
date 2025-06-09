@@ -38,12 +38,12 @@ The dataset consists of individual files, each representing a specific economic 
 ![libraries](https://github.com/user-attachments/assets/6df0ce83-f366-4e0c-9175-0f6aff7891dc)
 
 
-*  ***Configuration***: The provided code imports essential libraries for data science and machine learning, then configures a Spark session to securely connect to Azure Data Lake Storage Gen2 using OAuth 2.0 authentication before loading a dataset.
+*  🔧 ***Configuration***: The provided code imports essential libraries for data science and machine learning, then configures a Spark session to securely connect to Azure Data Lake Storage Gen2 using OAuth 2.0 authentication before loading a dataset.
 
 ![configuration part](https://github.com/user-attachments/assets/41983bc1-207b-4f62-9f28-5bfab1a577ca)
 
 
-*  ***Uploading files:*** This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in **``Azure Blob Storage``**.
+*  ⬆️ ***Uploading files:*** This Python code uses PySpark to load multiple CSV files containing 6 datasets stored in **``Azure Blob Storage``**.
 
 ![adding 6 files](https://github.com/user-attachments/assets/6816af35-63b0-42cf-a535-9e8fcf1002e3)
 
@@ -148,12 +148,12 @@ The dataset consists of individual files, each representing a specific economic 
 ![transformation process](https://github.com/user-attachments/assets/715478b2-9692-4a91-b2ea-66fcb2d7bf52)
 
 
-*  Saving all datasets individually.
+*  Saving all datasets individually ✅.
   
 ![final step](https://github.com/user-attachments/assets/be8ab0a6-7fc3-466f-9686-872b557432a9)
 
 
-*  Here is my **``conclusion``**. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.*
+*  📝 Here is my **``conclusion``**. This dataset enables cross-sector comparisons to assess economic health, forecast future trends, and refine investment strategies. The interplay between inflation, unemployment, and financial metrics presents a compelling story about regional stability, global competitiveness, and economic resilience.*
 
 
 
