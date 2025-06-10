@@ -277,7 +277,7 @@ This query analyzes whether high-growth countries also have high investment fore
 
 ***
 
-###  This project showcases a comprehensive data analysis of the ``IMF FORECAST Dataset``, opyimizing ``Azure services`` for an end-to-end data workflow. ``Raw data`` was ingested via ``Azure Data Factory`` into ``Data Lake Storage Gen2``, then cleaned and transformed using ``Azure Databricks``. The refined data was made available through ``Azure Synapse Analytics`` for scalable querying, with actionable insights delivered via ``Power BI dashboards``. The entire data processing workflow, from loading to visualization, was meticulously implemented in ``Python``.
+#  This project showcases a comprehensive data analysis of the ``IMF FORECAST Dataset``, opyimizing ``Azure services`` for an end-to-end data workflow. ``Raw data`` was ingested via ``Azure Data Factory`` into ``Data Lake Storage Gen2``, then cleaned and transformed using ``Azure Databricks``. The refined data was made available through ``Azure Synapse Analytics`` for scalable querying, with actionable insights delivered via ``Power BI dashboards``. The entire data processing workflow, from loading to visualization, was meticulously implemented in ``Python``.
 
 ## This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making.
 
