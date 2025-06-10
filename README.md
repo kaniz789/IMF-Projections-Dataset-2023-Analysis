@@ -242,6 +242,9 @@ This query selects countries with an economic growth forecast above 6% and order
 ![09](https://github.com/user-attachments/assets/63db787d-a675-492a-a70b-5d41576b7eaa)
 
 
+***
+
+
 **All economic indicators for each country in a unified view**
 
 This query analyzes whether high-growth countries also have high investment forecasts by selecting those with an economic growth forecast above 6% and ordering them by investment forecast in descending order, with a visual representation comparing the two metrics across nations.
@@ -274,7 +277,7 @@ This query analyzes whether high-growth countries also have high investment fore
 
 ***
 
-*** This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making. ***
+## This end-to-end implementation established a robust and scalable data analytics pipeline, successfully transforming raw data into actionable intelligence crucial for enhanced business intelligence and strategic decision-making. ##
 
 
 
